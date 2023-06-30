@@ -1,3 +1,5 @@
+** This repo is deprecated, BSC Erigon is supported in: https://github.com/node-real/bsc-erigon**
+
 # Erigon
 
 Erigon is an implementation of Ethereum (execution client with light client for consensus layer), on the efficiency frontier. [Archive Node](https://ethereum.org/en/developers/docs/nodes-and-clients/archive-nodes/#what-is-an-archive-node) by default.
